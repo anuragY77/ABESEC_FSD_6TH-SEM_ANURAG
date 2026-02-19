@@ -1,0 +1,17 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "f": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "s": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
