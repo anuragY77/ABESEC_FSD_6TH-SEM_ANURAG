@@ -68,6 +68,7 @@ This is a **day-wise training log** from my Full Stack Development coursework ‚Ä
 
 <br>
 
+
 <div align="center">
 
 [![Back to Profile](https://img.shields.io/badge/‚Üê_Back_to_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragY77)
