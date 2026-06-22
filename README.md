@@ -68,12 +68,6 @@ This is a **day-wise training log** from my Full Stack Development coursework �
 
 <br>
 
-## 📝 Note
-
-These are **learning exercises**, not production code — some files (e.g. `day5`) are still being debugged. This repo tracks progress through core backend fundamentals before moving to framework-based development (Express, databases, etc.).
-
-<br>
-
 <div align="center">
 
 [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragY77)
